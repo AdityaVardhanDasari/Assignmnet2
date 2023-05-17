@@ -1,0 +1,15 @@
+C:\Users\Aditya.Dasari\Desktop\project1\bin\Debug\net7.0\project1.exe
+C:\Users\Aditya.Dasari\Desktop\project1\bin\Debug\net7.0\project1.deps.json
+C:\Users\Aditya.Dasari\Desktop\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\Aditya.Dasari\Desktop\project1\bin\Debug\net7.0\project1.dll
+C:\Users\Aditya.Dasari\Desktop\project1\bin\Debug\net7.0\project1.pdb
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.dll
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\refint\project1.dll
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.pdb
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\Aditya.Dasari\Desktop\project1\obj\Debug\net7.0\ref\project1.dll
