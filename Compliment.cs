@@ -26,3 +26,4 @@ class Compliment
 		}
 	}
 }
+// in compliment.cs
